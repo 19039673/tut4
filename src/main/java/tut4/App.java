@@ -1,5 +1,6 @@
 package tut4;
 
+// Main app
 public class App 
 {
     public static void main( String[] args )
