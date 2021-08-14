@@ -1,0 +1,5 @@
+# Ignore maven target directory
+/target
+
+# General ignores
+*.class
